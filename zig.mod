@@ -26,4 +26,6 @@ c_source_files:
   - src/cdf.c
   - src/cdf_time.c
   - src/readcdf.c
+  - src/fmtcheck.c
+  - src/strlcpy.c
 
