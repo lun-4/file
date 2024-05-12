@@ -42,3 +42,5 @@ Makefile.in
 /src/magic.h
 
 /tests/test
+
+zig-*

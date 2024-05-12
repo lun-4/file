@@ -1,0 +1,11 @@
+.{
+    .name = "libmagic",
+    .version = "5.41.0",
+    .minimum_zig_version = "0.12.0",
+    .paths = .{
+        "src",
+        "build.zig",
+        "build.zig.zon",
+        "luna-config",
+    },
+}
